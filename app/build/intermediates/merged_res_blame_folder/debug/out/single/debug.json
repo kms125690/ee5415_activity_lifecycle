@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.android.lifecycle.app-merged_res-5:/drawable-ldpi_ic_launcher.png.flat",
+        "source": "com.example.android.lifecycle.app-main-7:/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.lifecycle.app-merged_res-5:/layout_activity_b.xml.flat",
+        "source": "com.example.android.lifecycle.app-main-7:/layout/activity_b.xml"
+    },
+    {
+        "merged": "com.example.android.lifecycle.app-merged_res-5:/layout_activity_a.xml.flat",
+        "source": "com.example.android.lifecycle.app-main-7:/layout/activity_a.xml"
+    },
+    {
+        "merged": "com.example.android.lifecycle.app-merged_res-5:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.example.android.lifecycle.app-main-7:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.lifecycle.app-merged_res-5:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.lifecycle.app-main-7:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.lifecycle.app-merged_res-5:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.example.android.lifecycle.app-main-7:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.lifecycle.app-merged_res-5:/layout_activity_dialog.xml.flat",
+        "source": "com.example.android.lifecycle.app-main-7:/layout/activity_dialog.xml"
+    },
+    {
+        "merged": "com.example.android.lifecycle.app-merged_res-5:/layout_activity_c.xml.flat",
+        "source": "com.example.android.lifecycle.app-main-7:/layout/activity_c.xml"
+    }
+]

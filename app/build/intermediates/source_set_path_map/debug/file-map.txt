@@ -1,0 +1,8 @@
+com.example.android.lifecycle.app-pngs-0 C:\Users\eeuser\AndroidStudioProjects\activity-lifecycle\app\build\generated\res\pngs\debug
+com.example.android.lifecycle.app-resValues-1 C:\Users\eeuser\AndroidStudioProjects\activity-lifecycle\app\build\generated\res\resValues\debug
+com.example.android.lifecycle.app-rs-2 C:\Users\eeuser\AndroidStudioProjects\activity-lifecycle\app\build\generated\res\rs\debug
+com.example.android.lifecycle.app-mergeDebugResources-3 C:\Users\eeuser\AndroidStudioProjects\activity-lifecycle\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.lifecycle.app-mergeDebugResources-4 C:\Users\eeuser\AndroidStudioProjects\activity-lifecycle\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.lifecycle.app-merged_res-5 C:\Users\eeuser\AndroidStudioProjects\activity-lifecycle\app\build\intermediates\merged_res\debug
+com.example.android.lifecycle.app-debug-6 C:\Users\eeuser\AndroidStudioProjects\activity-lifecycle\app\src\debug\res
+com.example.android.lifecycle.app-main-7 C:\Users\eeuser\AndroidStudioProjects\activity-lifecycle\app\src\main\res
